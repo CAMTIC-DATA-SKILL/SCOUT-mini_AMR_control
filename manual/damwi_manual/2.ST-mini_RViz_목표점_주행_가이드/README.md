@@ -32,9 +32,11 @@ rviz2
 ```
 Rviz 설정항목
 - Add - by topic - /map - map
+  
   map - topic - Durability Policy - Transient Local 변경 (맵핑 파일 불러오기)
 - Add - by topic - /scan - LaserScan (라이다센스 값 불러오기)
 - Add - By display type - TF (AMR 위치 확인)
+  
   TF - Frames - base_link, map, odom 만 체크
 
 ### 3. 현재위치 확인 및 이동
