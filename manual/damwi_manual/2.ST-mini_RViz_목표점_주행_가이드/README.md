@@ -43,6 +43,7 @@ Rviz 설정항목
 맵과 라이다센서 값(보라색 선)이 맞지 않을 경우 Rviz 위쪽 상단의 2D Pose Estimate로 변경
 
 **이동**
+
 Rviz 위쪽 상단의 2D Goal Pose로 이동
 
 **현재좌표 확인**
